@@ -1,6 +1,6 @@
 {
-  "terminalAssetUrl": "https://github.com/XalWad/arab-releases/releases/download/v1.1.7/ARAB-Terminal-Windows-1.1.7-Setup.exe",
-  "coreAssetUrl": "https://github.com/XalWad/arab-releases/releases/download/v1.1.7/arab-core-1.1.7.tar.gz",
-  "version": "1.1.7",
-  "released": "2026-08-24"
+  "terminalAssetUrl": "https://github.com/XalWad/arab-releases/releases/download/v1.2.0/ARAB-Terminal-Windows-1.2.0-Setup.exe",
+  "released": "2026-08-26",
+  "version": "1.2.0",
+  "coreAssetUrl": "https://github.com/XalWad/arab-releases/releases/download/v1.2.0/arab-core-1.2.0.tar.gz"
 }
